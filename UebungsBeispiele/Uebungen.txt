@@ -1,0 +1,5 @@
+Aufgaben zum selbstlösen
+
+1. Programmiere ein kleines 1 * 1. Heißt in der ersten Reihe nur die 1 Reihe , dann Die 2 Reihe
+    ,dann 3 Reihe ... . bis zur 10 Reihe. 
+    Schwierigkeit: leicht
