@@ -8,8 +8,12 @@
 </head>
 <body>
 <?php
-    $res = 2 <=> 6;
-    echo $res;
+  
+  function name($a,$b,){
+    echo "$a + $b ";
+  }
+
+  name("hans","bartl",);
     
 ?>
 </body>
