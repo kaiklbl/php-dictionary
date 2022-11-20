@@ -17,5 +17,7 @@ $_SERVER
 $_FILES
 
 $GLOBALS
+// Mit Globals kann man auf alle Globalen Variablen zugreifen
+// siehe Beispiel global.php
 
 ?>

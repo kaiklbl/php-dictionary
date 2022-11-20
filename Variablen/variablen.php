@@ -15,6 +15,14 @@
 
 // --------------------------------------
 
+// -----------------Gültigkeitsbereich-------------
+
+    // sind immer Dort gültig wo man sie definiert hat (lokal)
+
+    // Will man sie in functionen auch verwenden muss man sie global machen
+
+    global $variable;
+
 // ----------Referenz Variable------------
 
     $c = "hallo";
@@ -33,4 +41,14 @@
 
     define("Konstante","ich bin der wert");
     // andere möglichkeit mit define eine konstante zu erstellen
+
+
+// ---------------heredoc-----------------
+
+    $text = <<<HERE
+    Inhalt
+    des 
+    textes.
+    HERE;
+    // Um längere Texte zu speichern
 ?>

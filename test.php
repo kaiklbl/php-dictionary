@@ -1,3 +1,7 @@
+<?php
+declare(strict_types=1);
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -9,12 +13,10 @@
 <body>
 <?php
   
-  function name($a,$b,){
-    echo "$a + $b ";
-  }
 
-  name("hans","bartl",);
-    
+  $summe = 200;
+  $format = "%d Euro";
+  printf($format, $summe);
 ?>
 </body>
 </html>
