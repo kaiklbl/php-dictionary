@@ -16,7 +16,7 @@ function Name(int $a): int{
 // ----------------Strikte Typisierung---------------
 
 declare(strict_types=1);
-// Beim der strikten typesierung muss es der gleich typ sein sonst kommt ein Fehler
+// Bei der strikten typesierung muss es der gleiche typ sein sonst kommt ein Fehler
 // Muss immer ganz oben im script stehen
 
 

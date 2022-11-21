@@ -14,9 +14,8 @@ declare(strict_types=1);
 <?php
   
 
-  $summe = 200;
-  $format = "%d Euro";
-  printf($format, $summe);
+  $a = "PHP ist toll";
+  echo ord("a");
 ?>
 </body>
 </html>
