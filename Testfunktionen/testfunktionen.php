@@ -25,4 +25,7 @@ unset($wert);               // löscht den wert der Variable
     // <=> vergleicht ob kleiner (-1), größer(1), oder gleich (0) ist
 
 
+// php-info
+
+phpinfo();      // Zeigt alles über die php version an
 ?>

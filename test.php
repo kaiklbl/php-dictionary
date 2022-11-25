@@ -14,11 +14,7 @@ declare(strict_types=1);
 <?php
   
 
-$arr = ["var1"=>"derName","var2"=>"hannes","var3"=>"kasparl"];
-
-extract($arr);
-
-echo $var3;
+print_r(getdate());
 
 ?>
 </body>
