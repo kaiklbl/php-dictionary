@@ -8,6 +8,8 @@ is_string($wert);           // überprüft ob wert ein string ist
 
 is_numeric($wert);          // überprüft ob wert eine Zahl ist
 
+is_array($arr);             // überprüft ob wert ein Array ist false nicht liefert es eine Warnung
+
 isset($wert);               // überprüft ob die variable existiert
 
 empty($wert);               // überprüft ob die Variable leer ist
